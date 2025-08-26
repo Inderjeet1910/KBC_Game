@@ -1,2 +1,2 @@
 # KBC_Game
-A basic KBC Game using basic concept of JAVA
+A basic KBC Game using basic concepts of JAVA
